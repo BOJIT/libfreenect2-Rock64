@@ -1,4 +1,6 @@
-# libfreenect2
+# libfreenect2-Rock64
+
+#NOTE THAT THIS FORK IS NOT YET OPERATIONAL (as of 28/7/19). DO NOT USE THIS CODE!
 
 ## Table of Contents
 
